@@ -1,3 +1,3 @@
 # covid-data-visualization
-Umair Lakhani s5212660
-Ali Khalil s5617735
+Umair Lakhani : S5212660
+Ali Khalili :  S5617735
